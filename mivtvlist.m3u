@@ -164,7 +164,27 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://iptv-pro.github.io/logo/KIX.png",KiX
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec05-pop4-hlc.tv360.vn/bpk-token/kluben65hestp7bqil6vh2asg5joqerx/bpk-tv/211/output/211-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec01-pop4-hlc.tv360.vn/bpk-token/nigta7irkidh3wmjyc3gwdjqpvva2md5/bpk-tv/226/output/226-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec03-pop4-hlc.tv360.vn/bpk-token/cschqqntkrhudlihfkfrlbdyiekii6cb/bpk-tv/346/output/346-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onechannel.png", ON E- Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec04-pop4-hlc.tv360.vn/bpk-token/doh4uaf4l76qasrytdfbvd6kaany7sqa/bpk-tv/212/output/212-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec05-pop4-hlc.tv360.vn/bpk-token/ll4gahihtblb3gezsdlfx6dadvnpqya5/bpk-tv/218/output/218-audio_198800_eng_iv_2=196800-video_iv_2=5256400.m3u8
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ec04-pop4-hlc.tv360.vn/bpk-token/ljv2ittaboje42vcjocvw25ejzngxjco/bpk-tv/263/output/263-audio_198800_eng_iv_2=196800-video_iv_2=5256400.m3u8
+#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ec04-pop4-hlc.tv360.vn/bpk-token/z6g7wpv72lgt5dtcct245dp3h3hy36z6/bpk-tv/234/output/234-audio_198800_eng_iv_1=196800-video_iv_1=5256400.m3u8
