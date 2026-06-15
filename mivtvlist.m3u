@@ -57,11 +57,11 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ci6kzgL.png",TH Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pTVybK6.png",TH Vĩnh Long 1
-udp://@225.1.1.155:30120
+https://es5-p1-netcdn.tv360.vn/netcdn-live/252/output/index.m3u8?token=7308cd3c3b314243c3078b6eec6ca2f2&wmkid=0&uid=14.170.120.35&minrate=0&maxrate=10000000&timestamp=1781510310
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",TH Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",TH Vĩnh Long 3
-udp://@225.1.1.235:30120
+https://ec05-pop4-hlc.tv360.vn/bpk-token/bxffceysefirgyqn7eia5ssrcmg4uuit/bpk-tv/250/output/index.m3u8?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3ODE1MTA0NzcsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc4MTQ4ODc1OCwKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMjUwX0hMUyIsCiAgICAgInBuYSI6IlZpZXR0ZWwiLAogICAgICJybmEiOiIiLAogICAgICJwbiI6IlBPUC1ITi1QT1A0IiwKICAgICAiZW4iOiJFREdFLUhOLVBPUDQiLAogICAgICJjYyI6IlZOIiwKICAgICAicmMiOiJITiIsCiAgICAgImFjbiI6IkNPUkUtSE4tUE9QNCIsCiAgICAgImlzcCI6IlZOUFQiLAogICAgICJhc24iOiI0NTg5OSIsCiAgICAgInZzIjoiQktTNDAwLVBPUDQtMDVfMTcyLjI0LjE3LjEwNDoyMDAwMCIsCiAgICAgIm50IjoiT1RUIiwKICAgICAidHRwIjowLAogICAgICJwbGlkIjoiIiwKICAgICAicHVpZCI6IiIsCiAgICAgInRlaWQiOiIiCiAgfSwKICAib3QiOnsKICAgICAidHMiOjE3ODE0ODg3NTgsCiAgICAgInVybCI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4P21pbnJhdGU9MCZtYXhyYXRlPTEwMDAwMDAwIiwKICAgICAidG9rIjoiYnhmZmNleXNlZmlyZ3lxbjdlaWE1c3NyY21nNHV1aXQiLAogICAgICJleHQiOiIiLAogICAgICJjaXAiOiIxNC4xNzAuMTIwLjM1IiwKICAgICAiY2hrIjogZmFsc2UsCiAgICAgInN0dCI6Ik5PIiwKICAgICAiZHNjcCI6MCwKICAgICAic3YiOnsKICAgICAgICAiaWQiOiIyNTBfSExTIiwKICAgICAgICAidHlwIjoiTElWRSIKICAgICB9LAogICAgICJ0byI6ewogICAgICAgIAogICAgICAgICAKICAgICAgICAic3UiOjAsCiAgICAgICAgInJjIjoxNTAKICAgICB9LAogICAgICJsYXkiOiB7CiAgICAgICJsc3QiOltdLAogICAgICAibWF4IjoxMDAwMDAwMCwKICAgICAgIm1pbiI6MAogICAgIH0sCiAgICAgInJzaCI6MCwKICAgICAicnNocCI6MTAwLAogICAgICJvYmYiOmZhbHNlLAogICAgICJ0YWdzIjp7fQogIH0KfQ.vNzK-Z4Um-mh1WTjj0cirSD8N4_CJbDUFufUTSRHh0M
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",TH Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",TH Vĩnh Long 5
