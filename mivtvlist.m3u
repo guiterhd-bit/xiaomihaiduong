@@ -110,7 +110,7 @@ https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",An Viên TV
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",TH Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
