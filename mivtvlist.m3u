@@ -168,7 +168,7 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://github.com/dnmnhat/vietnam-logo-tivi/blob/master/100b/3-danang2.png?raw=true",DaNangTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="ttps://freem3u.xyz/static/images/diaphuong/daklak.png",TH Đắk Lắk
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/daklak.png",TH Đắk Lắk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="http://gialaitv.vn/data_news/21gjj.jpg",TH Gia Lai
