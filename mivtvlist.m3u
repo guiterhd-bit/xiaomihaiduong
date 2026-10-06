@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv2.png" , VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
@@ -10,7 +10,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv4.png" , VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vod20-g11.tv360.vn/viettel/channel/193/fmp4.ll_index-v4.m3u8?VOD_RequestID=4MhbTaEn9gwxnu5F2Xra_5JTxAbjghb_iaL1hHSzQzRqnUWKUf2f2YOTNoxmDi0rhXN65RBR7O_BZmGWf02B3Q&uid=147272488&_HLS_msn=2919198&_HLS_part=1
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pop7-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMjk5ODc4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTQ0L0hMU19DbGVhbl9NSExfMnMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YWFiMDRlNDk3YTI2ZGI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xNzIuMjQuMTY4LjE2NCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDgiLCJzb3VyY2VzIjpbMjAyLDQ2Miw0NjUsNDY5XX0=.ELUvrysBHPKOzGciudD_Iq60ke0wSYM5k7M-RMhG3IbYeofGAkrLKQ9xRtmLQozrLKfWUndO0Ky9oXdkQlKTYw==/live/eds/1944/HLS_Clean_MHL_2s/1944-avc1_6299968=10009-mp4a_196800_eng=20001.m3u8
@@ -37,7 +37,7 @@ https://pop7-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHA
 https://pop7-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMzA4MTE1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xNDEvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY4MmMwZDdlMWE3MGEwYzIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNjguMTY0Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0OSIsInNvdXJjZXMiOlsyMDIsNDYyLDQ2NSw0NjldfQ==.e8S-MaCEngvmo31ZV5A75vpa3uhzsUAROnsK9Ttc0EOmUJ6oYeOG2EGZNsbz3V4_Z_d3fqmQazUKgkhim4f7ww==/live/eds/141/HLS_Clean_MHL_2s/141-avc1_5099968=10008-mp4a_206000_eng=20001.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vietnamtoday.png",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ec04-pop4-hlc.tv360.vn/bpk-token/diqn65umqpbhn2bweyybwig7oyncbx3w/bpk-tv/448/output/448-audio_198800_eng=196800-video=5256400.m3u8
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
