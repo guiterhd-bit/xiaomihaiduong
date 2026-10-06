@@ -4,13 +4,13 @@
 https://ec03-pop4-hlc.tv360.vn/bpk-token/qhgcsewzn42bfae5zrkibtbjcka4ykis/bpk-tv/154/output/154-audio_208000_eng_iv_4=206000-video_iv_4=3417600.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv2.png" , VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://es8-p1-netcdn.tv360.vn/netcdn-live/192/output/6730000-index.m3u8?wmkid=0&uid=147272488&timestamp=1791296835&token=bd3316cb353c5c026f99d0e372fc3624
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv3.png" , VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv4.png" , VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ec01-pop4-hlc.tv360.vn/bpk-token/e2ue6zyrbnjgoev3viqsjkcpm4tkqt3h/bpk-tv/193/output/193-audio_208000_eng_iv_2=206000-video_iv_2=3417600.m3u8
+https://vod20-g11.tv360.vn/viettel/channel/193/fmp4.ll_index-v4.m3u8?VOD_RequestID=4MhbTaEn9gwxnu5F2Xra_5JTxAbjghb_iaL1hHSzQzRqnUWKUf2f2YOTNoxmDi0rhXN65RBR7O_BZmGWf02B3Q&uid=147272488&_HLS_msn=2919198&_HLS_part=1
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pop7-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMjk5ODc4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTQ0L0hMU19DbGVhbl9NSExfMnMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YWFiMDRlNDk3YTI2ZGI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xNzIuMjQuMTY4LjE2NCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDgiLCJzb3VyY2VzIjpbMjAyLDQ2Miw0NjUsNDY5XX0=.ELUvrysBHPKOzGciudD_Iq60ke0wSYM5k7M-RMhG3IbYeofGAkrLKQ9xRtmLQozrLKfWUndO0Ky9oXdkQlKTYw==/live/eds/1944/HLS_Clean_MHL_2s/1944-avc1_6299968=10009-mp4a_196800_eng=20001.m3u8
