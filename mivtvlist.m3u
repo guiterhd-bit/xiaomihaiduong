@@ -34,7 +34,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_560
 https://ec04-pop4-hlc.tv360.vn/bpk-token/a4vvinzfrbeto5abwjyqmk2ug4dswvbx/bpk-tv/378/output/378-audio_208000_eng_iv_2=206000-video_iv_2=5256400.m3u8
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/qpvn.png", QPVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://ec01-pop4-hlc.tv360.vn/bpk-token/xwuh24d3bjqha3datm3lzkd5oc62q7lq/bpk-tv/141/output/141-audio_208000_eng_iv_4=206000-video_iv_4=5256400.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vietnamtoday.png",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
