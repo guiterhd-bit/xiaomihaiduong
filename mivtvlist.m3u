@@ -37,7 +37,7 @@ https://ec04-pop4-hlc.tv360.vn/bpk-token/a4vvinzfrbeto5abwjyqmk2ug4dswvbx/bpk-tv
 https://ec01-pop4-hlc.tv360.vn/bpk-token/xwuh24d3bjqha3datm3lzkd5oc62q7lq/bpk-tv/141/output/141-audio_208000_eng_iv_4=206000-video_iv_4=5256400.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vietnamtoday.png",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://ec05-pop4-hlc.tv360.vn/bpk-token/eh3ailwbkqms4xvz4nucb5qefyq7mbbo/bpk-tv/448/output/448-audio_198800_eng=196800-video=5256400.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
