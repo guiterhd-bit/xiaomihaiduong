@@ -237,7 +237,7 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-https://vod-h07-hlc.tv360.vn:18443/348_3.m3u8?Range=298558094-298558095&SessionID=adc69cb1-cfd0-4c57-9494-1e0f8abdc2f8
+https://vod-h07-hlc.tv360.vn:18443//348_3.m3u8?AdaptiveType=HLS&SessionID=a58f8ff9-0234-4049-a1da-088c9af96ca3&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
