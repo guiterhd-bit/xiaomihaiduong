@@ -203,6 +203,9 @@ https://pop3-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHA
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://htv.mediacdn.vn/thumb_w/120/155334506109014016/2026/4/10/htv4-final-1775789061888945050131.png", HTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png", HTV5 - An Viên HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+https://ec01-pop4-hlc.tv360.vn/bpk-token/kpqyomzrxotthyyyf52ffymhgnj6dbzt/bpk-tv/246/output/246-audio_279600_eng_iv_1=277600-video_iv_1=5256400.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://ec01-pop4-hlc.tv360.vn/bpk-token/2bt3uxh4h6nfzaxsdun5ez52ltigpos4/bpk-tv/157/output/157-audio_208000_eng_iv_4=206000-video_iv_4=5256400.m3u8
