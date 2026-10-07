@@ -277,7 +277,7 @@ https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+https://ec03-pop4-hlc.tv360.vn/bpk-token/vfo3ood2bkltrgtddv72wxnxhcuv3nzy/bpk-tv/297/output/297-audio_214835_eng_iv_2=214800-video_iv_2=5254000.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" ​​group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
