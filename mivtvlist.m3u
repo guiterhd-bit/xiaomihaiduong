@@ -13,7 +13,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://pop7-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMjk5ODc4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTQ0L0hMU19DbGVhbl9NSExfMnMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YWFiMDRlNDk3YTI2ZGI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xNzIuMjQuMTY4LjE2NCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDgiLCJzb3VyY2VzIjpbMjAyLDQ2Miw0NjUsNDY5XX0=.ELUvrysBHPKOzGciudD_Iq60ke0wSYM5k7M-RMhG3IbYeofGAkrLKQ9xRtmLQozrLKfWUndO0Ky9oXdkQlKTYw==/live/eds/1944/HLS_Clean_MHL_2s/1944-avc1_6299968=10009-mp4a_196800_eng=20001.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv6.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -74,7 +74,7 @@ https://ec05-pop4-hlc.tv360.vn/bpk-token/2haq2wjrmmifslji6qp5hqinlhi4cdkz/bpk-tv
 https://ec05-pop4-hlc.tv360.vn/bpk-token/q45ou43htd3xg66tcm2yioxkoodtv2tt/bpk-tv/251/output/251-audio_198800_eng_iv_3=196800-video_iv_3=5256400.m3u8
 #EXTINF:-1 tvg-id="thvl5hd" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png", THVL5 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ec03-pop4-hlc.tv360.vn/bpk-token/bzmi2z7o7kigp4vroqqquwenm4hfrdlh/bpk-tv/423/output/423-audio_214835_eng_iv_2=214800-video_iv_2=5254000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sPyR9t6.png",TH Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
