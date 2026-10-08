@@ -83,7 +83,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=219
 https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="thvl5hd" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png", THVL5 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-ttps://freem3u.xyz/api/live/play.m3u8?vid=91
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/LXuRwJY.png",TH Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=77
@@ -161,16 +161,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 3
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://vi.wikipedia.org/wiki/B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh,_truy%E1%BB%81n_h%C3%ACnh_T%C3%A2y_Ninh",TH Tây Ninh
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://img-zlr1.tv360.vn/image1/2026/01/10/08/1768009863485/1206cb944f9e_480_270.png", TH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://m.tv360.vn/tv/htv4?ch=9&c=-2&ev=858862&evt=1&es=2",DaNangTV1
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png",DaNangTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=49
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://tv360.vn/tv/da-nang-2?ch=80",DaNangTV2
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/09/175133702497/eded20e0d35c_480_270.png",DaNangTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://tv360.vn/tv/gia-lai?ch=55",TH Gia Lai
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png",TH Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-hq.evgcdn.net/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",TH Khánh Hòa
