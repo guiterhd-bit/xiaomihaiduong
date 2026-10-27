@@ -4,31 +4,31 @@
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789027996819/72d1db4aee30_480_270.png" , VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028028518/5e31c4d0e6df_480_270.png" , VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028176727/7330e5a3b2d9_480_270.png" , VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028251332/3b8d99f01cf8_480_270.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" ​​group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028340304/12d1ff56339c_480_270.png" , VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028374733/17d3b1dcfa56_480_270.png" , VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028403548/13cc721d59b3_480_270.png" , VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv10" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/178902829313/9caa3cdd2362_480_270.png" , VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="antv-hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_480_270.png", ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=20
