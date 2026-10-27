@@ -276,63 +276,42 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png", SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
-
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=232
-
 #EXTINF:-1 tvg-id="sctv7hd" ​​group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
-
-#EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
-
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png", SCTV10 HD
+#EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
-https://vietanhtv.id.vn/sctv/sctv10-0faf313b/index.m3u8
-
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv11.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv12.png", SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv13.png", SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv14.png", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv16.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv18.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv19.png", SCTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
-
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv20.png", SCTV20 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
